@@ -1,5 +1,7 @@
 import tkinter as tk
 
+# TO DO: turns, purple highlithing for chosen pawn, better code
+
 
 class Checkers(tk.Frame):
     def __init__(self, parent, *args, **kwargs):
